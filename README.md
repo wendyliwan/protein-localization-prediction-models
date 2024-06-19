@@ -14,3 +14,7 @@ The co-expressed or co-located proteins and RNAs of our proteins;
 A classifier constructed based on random forest method to classify samples；
 #Functional analysis was performed based on the enrichr function in the R package “enrichR”;
 #Survival analysis was done through the R package “survival”.
+#External dataset analysis.py
+Analysis of model performance on external datasets.
+#Grad-CAM.py
+Analyzing the interpretability of models based on Grad-CAM.
